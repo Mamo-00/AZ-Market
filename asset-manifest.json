@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AZ-Market/static/css/main.79dfe25f.css",
+    "main.js": "/AZ-Market/static/js/main.94c0be7a.js",
+    "static/media/july_10.jpg": "/AZ-Market/static/media/july_10.9bed02872bc80827444c.jpg",
+    "static/media/page-logo.png": "/AZ-Market/static/media/page-logo.b9f8f372bbdcb0882930.png",
+    "static/media/page-logo-icon-only.png": "/AZ-Market/static/media/page-logo-icon-only.f59e807e50a2eeb958d7.png",
+    "static/media/clothes.svg": "/AZ-Market/static/media/clothes.bf26c69bf8d02d12b8f7ade5b05d0f65.svg",
+    "static/media/plants.svg": "/AZ-Market/static/media/plants.b84388df61361c6d53648b33f1a7bd60.svg",
+    "static/media/logo.svg": "/AZ-Market/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/appliances.svg": "/AZ-Market/static/media/appliances.a614c148dfab2b64ccd07769b3177ebc.svg",
+    "static/media/furniture.svg": "/AZ-Market/static/media/furniture.e75473bf396739485aef29e99c8a6083.svg",
+    "static/media/car.svg": "/AZ-Market/static/media/car.8e4d8197565d3cac2e4800bd44595b46.svg",
+    "index.html": "/AZ-Market/index.html",
+    "static/media/checkmark.svg": "/AZ-Market/static/media/checkmark.c66e662906e421b1b538d4f3a9e4dda6.svg",
+    "main.79dfe25f.css.map": "/AZ-Market/static/css/main.79dfe25f.css.map",
+    "main.94c0be7a.js.map": "/AZ-Market/static/js/main.94c0be7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79dfe25f.css",
+    "static/js/main.94c0be7a.js"
+  ]
+}
