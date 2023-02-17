@@ -1,0 +1,22 @@
+body {
+  background: url(../src/assets/background/july_10.jpg) no-repeat center center fixed;
+}
+
+.icon-style {
+  color: #ffffff; 
+
+  vertical-align: middle;
+  height: 20px;
+  width: 20px;
+}
+
+.logo {
+  color: #ffffff;
+}
+
+header {
+  background-color: #528265;
+  margin: 0;
+
+}
+

@@ -1,24 +1,22 @@
 import logo from './logo.svg';
-import './App.css';
+import { Routes, Route } from 'react-router-dom';
+import ElHvit from './pages/ElHvit';
+import Kjøretøy from './pages/Kjøretøy';
+import Klær from './pages/Klær';
+import Møbler from './pages/Møbler';
+import Planter from './pages/Planter';
+import Hjem from './pages/Hjem';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes>
+      <Route path="/*" element={<Hjem />} />
+      <Route path="/elektronikk-og-hvitevarer" element={<ElHvit />} />
+      <Route path="/kjoretoy" element={<Kjøretøy />} />
+      <Route path="/klaer-og-tilbehor" element={<Klær />} />
+      <Route path="/planter" element={<Planter />} />
+      <Route path="/mobler" element={<Møbler />} />
+    </Routes>
   );
 }
 
