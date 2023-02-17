@@ -14,7 +14,7 @@ const options = {
     page: '1'
   },
   headers: {
-    'X-RapidAPI-Key': '40171cf2c0msh9659b9fbac0a11cp17298djsn0287579be5d7',
+    'X-RapidAPI-Key': process.env.RAPID_API_KEY,
     'X-RapidAPI-Host': 'unofficial-shein.p.rapidapi.com'
   }
 };
