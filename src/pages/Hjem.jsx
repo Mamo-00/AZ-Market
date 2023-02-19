@@ -15,7 +15,6 @@ const Category = styled(Link)`
   align-items: center;
   justify-content: center;
   margin-bottom: 15px;
-  
 `;
 
 const Container = styled.div`
